@@ -12,7 +12,8 @@ THE STEPS :
 9. EVALUATE THE MODEL FOR ACCURACY SCORE.
 10. USING THE MODEL FOR PREDICTION.
 
-<img src="result.png" alt="Result" width="400" align="center">
+![Nama Gambar](result.png)
+
 
 
 
