@@ -3,7 +3,9 @@
 2. We started with downloading the dataset creating the model and finding out the predictions using the model. We can optimize different hyper parameters in order to tune this model for a higher accuracy. This model can be used to predict different breeds of dogs which can be further used by different NGO's working on saving animals and for educational purposes also.
 
 
-![Result](result.png){: .left}
+![Result](result.png) <img src="result.png" alt="Result" width="400" align="center">
+
+
 
 
 
